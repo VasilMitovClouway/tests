@@ -3,7 +3,7 @@ package task8.HomogeneusTree;
 /**
  * Created by clouway on 08.04.16.
   */
- Notsopublic class HomogeneusTree {
+ VeryVeyrpublic class HomogeneusTree {
 
   private HomogeneusNode root;
 
